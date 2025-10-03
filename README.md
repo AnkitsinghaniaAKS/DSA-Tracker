@@ -2,7 +2,7 @@
 
 Purpose: To track your progress in solving DSA problems across various topics like arrays, strings, trees, graphs, dynamic programming, etc.
 
-Features:
+Features:-
 
 Problem Tracking: A list of problems from platforms like LeetCode, HackerRank, or CodeChef, with a status (Not Started, In Progress, Solved).
 
